@@ -1,5 +1,9 @@
+import HomeHeader from '@/components/HomeHeader';
+
 export default function Home() {
   return (
-    <main>Home</main>
+    <>
+      <HomeHeader />
+    </>
   )
 }
